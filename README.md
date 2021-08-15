@@ -2,7 +2,7 @@
 
   ## Description 
 
-  Professional README to explain the ins and outs of my project.
+  This project is to create a Professional README to explain the ins and outs of creating the README. The information used to create the README is below. 
 
   
   
